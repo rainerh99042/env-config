@@ -1,6 +1,6 @@
 {
   "name": "env-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "read env vars into typed config values",
   "type": "module",
   "main": "src/index.js",
